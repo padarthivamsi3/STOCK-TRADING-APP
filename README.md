@@ -255,7 +255,7 @@ server/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/[your-username]/stock-trading-app.git
+git clone https://github.com/padarthivamsi3/STOCK-TRADING-APP.git
 cd stock-trading-app
 ```
 
